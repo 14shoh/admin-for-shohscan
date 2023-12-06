@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "113447209787",
+    "firebase_url": "https://practik-cfbf8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "practik-cfbf8",
+    "storage_bucket": "practik-cfbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113447209787:android:f5b6e9cf508a2b7725051e",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQ-1Fn8e06YSKjGJ0VfpyTlANZhQCekU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113447209787:android:5b89ee8fea4b25a725051e",
+        "android_client_info": {
+          "package_name": "com.example.practik1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQ-1Fn8e06YSKjGJ0VfpyTlANZhQCekU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113447209787:android:a4b4bb51c853813325051e",
+        "android_client_info": {
+          "package_name": "com.example.scanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQ-1Fn8e06YSKjGJ0VfpyTlANZhQCekU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
